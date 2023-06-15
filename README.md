@@ -1,6 +1,6 @@
 
 ## Animal Skin Disease Detection Model
-This repository contains an open-source machine learning model for detecting skin diseases in animals. The model is trained using a deep learning architecture and has achieved high accuracy in identifying various skin conditions in different animal species.
+This repository contains an open-source machine learning model for detecting skin diseases in animals, we also create this repositories in order to fulfilled documentation on our project at Bangkit Capstone Project 2023. The model is trained using a deep learning architecture and has achieved high accuracy in identifying various skin conditions in different animal species. 
 
 ## Model Description
 The skin disease detection model leverages state-of-the-art deep learning techniques to analyze animal skin images and classify them into different disease categories. It has been trained on a diverse dataset, carefully curated from a wide range of animal species, encompassing common and rare skin conditions.
